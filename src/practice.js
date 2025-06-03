@@ -1,6 +1,6 @@
 import allResults from "./results.js";
 
-console.log("total count", allResults.length);
+console.log("total county", allResults.length);
 
 const filterByGrade = (results, grade) => {
   const filteredResults = [];
